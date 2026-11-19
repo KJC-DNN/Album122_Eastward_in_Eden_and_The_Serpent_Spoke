@@ -18,6 +18,6 @@ Study note: The serpent is a spiritual adversary acting in the narrative; the fr
 Prayer note: Lord, keep us from the voice that questions Your word.
 
 # Published:
-1. GitHub:
+1. GitHub: https://github.com/KJC-DNN/Album122_Eastward_in_Eden_and_The_Serpent_Spoke/releases/tag/122.0.0
 2. Archive: album-122-eastward-in-eden-main-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24373885
