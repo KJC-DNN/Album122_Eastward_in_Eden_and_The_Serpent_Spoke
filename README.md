@@ -21,3 +21,9 @@ Prayer note: Lord, keep us from the voice that questions Your word.
 1. GitHub: https://github.com/KJC-DNN/Album122_Eastward_in_Eden_and_The_Serpent_Spoke/releases/tag/122.0.0
 2. Archive: album-122-eastward-in-eden-main-cover
 3. Zenodo: https://doi.org/10.5281/zenodo.24373885
+
+# Instrumental
+## Published
+1. GitHub: https://github.com/KJC-DNN/Albums122-124_Instrumentals_The_Heavens_Declare/releases/tag/122-124.0.0
+2. Archive: albums-122-124-instrumentals-the-heavens-declare-cover
+3. Zenodo: https://doi.org/10.5281/zenodo.24391676
